@@ -1,1 +1,15 @@
-
+[
+  {
+    "id": 1,
+    "name": "Parol Tablet",
+    "activeIngredient": "Parasetamol",
+    "indication": "Hafif ve orta şiddette ağrı, ateş.",
+    "contraindication": "Parasetamole karşı aşırı duyarlılık.",
+    "dose": "500-1000 mg, 4-6 saatte bir gerektiğinde.",
+    "usage": "Aç veya tok alınabilir.",
+    "interaction": "Alkol ve karaciğeri etkileyen ilaçlarla dikkatli kullanılmalıdır.",
+    "pregnancy": "Doktor önerisiyle kullanılmalıdır.",
+    "breastfeeding": "Genellikle uygun kabul edilir.",
+    "patientAdvice": "Günlük maksimum dozu aşmayınız."
+  }
+]
